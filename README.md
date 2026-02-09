@@ -159,4 +159,4 @@ For 2D games, Canvas render mode depends on UI type:
 All new scenes, scripts, and UI must comply with this document. Any deviation requires team lead approval.
  
 **Document Owner:** Tech Team
-**Last Updated:** YYYY-MM-DD
+**Last Updated:** 9/02/26
